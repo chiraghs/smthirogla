@@ -1,0 +1,3 @@
+/home/chiraghs/CLionProjects/algorithms/Search/Linear_search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chiraghs/CLionProjects/algorithms/Search/Linear_search/cmake-build-debug/CMakeFiles/Search.dir
+/home/chiraghs/CLionProjects/algorithms/Search/Linear_search/cmake-build-debug/CMakeFiles/edit_cache.dir
