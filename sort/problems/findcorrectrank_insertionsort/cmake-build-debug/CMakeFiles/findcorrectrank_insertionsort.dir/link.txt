@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/findcorrectrank_insertionsort.dir/main.cpp.o  -o findcorrectrank_insertionsort 
